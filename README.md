@@ -62,3 +62,6 @@ Future releases should have the following features:
 ## Support and contact details
 You can provide feedback or raise any issues/ bugs via email:
 * stephenremmi@gmail.com
+
+## [License](https://github.com/Stephenremmi/Articnews/blob/master/LICENSE)
+
