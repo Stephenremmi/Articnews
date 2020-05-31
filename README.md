@@ -64,4 +64,4 @@ You can provide feedback or raise any issues/ bugs via email:
 * stephenremmi@gmail.com
 
 ## [License](https://github.com/Stephenremmi/Articnews/blob/master/LICENSE)
-
+MIT license Copyright(c) 2020 **Stephen Remmi**
