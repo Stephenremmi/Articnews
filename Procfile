@@ -1,1 +1,1 @@
-web: gunicorn manage:app
+web: gunicorn app_name:articnews --log-file -
