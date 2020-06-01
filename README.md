@@ -52,6 +52,7 @@ Future releases should have the following features:
 * Pagination.
 * be responsive
 * Bottom screen-Allows user to scroll down the page infinitely
+* Include various news categories such as sport,science and tech.
 
 
 
