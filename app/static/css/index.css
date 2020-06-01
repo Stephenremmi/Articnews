@@ -1,0 +1,28 @@
+.main {
+  flex: 1 1 0;
+  display: flex;
+}
+.container-fluid {
+display: flex;
+}
+.col-9 {
+overflow-y: auto;
+height: 90vh; /* NEW */
+}
+.col-9 h2 {
+font-family: 'Bebas Neue', cursive;
+color: #111;
+font-weight: bold;
+height: 90vh;
+}
+.col-9 h5 p {
+font-family: 'Bebas Neue', cursive;
+color: #111;
+
+}
+.container h5 p {
+font-family: 'Bebas Neue', cursive;
+color: #111;
+}
+/* Responsive columns - one column layout (vertical) on small screens */
+
