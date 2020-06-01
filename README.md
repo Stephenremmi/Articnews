@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/???)](https://codebeat.co/projects/github-com-superorc-online-superorc-online-site-master)
 # Articnews
 
 ## Author
