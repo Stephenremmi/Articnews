@@ -66,5 +66,10 @@ Future releases should have the following features:
 You can provide feedback or raise any issues/ bugs via email:
 * stephenremmi@gmail.com
 
+## Deployment Notice
+This application was previously hosted on Heroku under the free tier.
+Since Heroku discontinued free hosting, the live demo is currently offline.
+The source code remains fully functional and can be run locally.
+
 ## [License](https://github.com/Stephenremmi/Articnews/blob/master/LICENSE)
 MIT license Copyright(c) 2020 **Stephen Remmi**
