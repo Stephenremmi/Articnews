@@ -1,5 +1,6 @@
 [![codebeat badge](https://codebeat.co/badges/daf44f38-23bc-46a7-91e1-59faded338f1)](https://codebeat.co/projects/github-com-stephenremmi-articnews-master)
 # Articnews
+An application which lists and previews news articles from various news sources.
 
 ## Author
 [Stephen remmi](https://github.com/Stephenremmi)
